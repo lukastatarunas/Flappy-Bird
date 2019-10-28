@@ -1,0 +1,27 @@
+body {
+    margin: 0px;
+    overflow: hidden;
+    background-color: #000;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+p {
+    font-family: Arial;
+    font-size: 400%;
+    color: #fff;
+}
+
+button {
+    font-family: Arial;
+    font-size: 400%;
+    border-radius: 50px;
+    padding: 20px;
+    outline: none;
+    cursor: pointer;
+}
